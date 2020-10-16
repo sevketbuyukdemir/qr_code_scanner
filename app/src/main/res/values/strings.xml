@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Tarayıcı</string>
+    <string name="title_exit">Çıkış</string>
+    <string name="exit_alert_title">Çıkış</string>
+    <string name="exit_alert_message">Çıkmak istiyor musun?</string>
+    <string name="exit_alert_exit_button">Çıkış</string>
+    <string name="exit_alert_do_not_exit_button">Devam et</string>
+    <string name="qr_code_browser">QR Tarayıcı</string>
+    <string name="scan_button">QR Kodunu Tara</string>
+    <string name="title_activity_qrtext">QR metni..</string>
+    <string name="title_activity_qr_website">QR internet sitesi</string>
+</resources>
